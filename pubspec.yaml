@@ -1,0 +1,35 @@
+name: ui
+description: Start of my world
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+
+  google_fonts:
+  firebase_core:
+  firebase_auth:
+  firebase_messaging:
+  firebase_storage:
+  cloud_firestore:
+  firebase_crashlytics: ^2.8.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/

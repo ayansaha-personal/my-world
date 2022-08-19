@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "208069710956",
+    "project_id": "my-world-in",
+    "storage_bucket": "my-world-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208069710956:android:2d841da53901178c653449",
+        "android_client_info": {
+          "package_name": "com.myworld.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208069710956-moietvf0u376ud6pge4oa7pq78gvl5o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-s1lrrvk4t1EUxWvcaPbCbcOutH5QJpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208069710956-moietvf0u376ud6pge4oa7pq78gvl5o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208069710956-thd8vq9qomdgt3fteb1osvh07alm6kbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myworld.ui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
