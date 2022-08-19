@@ -2,7 +2,7 @@
     package="com.myworld.ui">
    <application
         android:label="ui"
-        android:name="${applicationName}"
+        android:name=".MyWorldApp"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
